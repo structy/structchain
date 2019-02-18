@@ -1,2 +1,3 @@
-# structchain
-structChain - Hash-based subscription
+# structChain
+
+Hash-based subscription
